@@ -2,7 +2,7 @@
 """
 
 
-class ObjA:
+class ObjB:
     """obj b is here!"""
 
     def __init__(self, val: int) -> None:
